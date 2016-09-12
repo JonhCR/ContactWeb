@@ -67,3 +67,5 @@ C:\Users\Jhon\Documents\Visual Studio 2015\Projects\ContactWeb\ContactWeb\bin\Mi
 C:\Users\Jhon\Documents\Visual Studio 2015\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 C:\Users\Jhon\Documents\Visual Studio 2015\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 C:\Users\Jhon\Documents\Visual Studio 2015\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
+C:\Users\Jhon\documents\visual studio 2015\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
